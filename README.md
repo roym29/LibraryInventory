@@ -1,2 +1,3 @@
 # LibraryInventory
- Inventory management Java app designed for keeping track of books at libraries. 
+ Inventory management app designed to keep track of books at libraries. 
+ (JAVA)
